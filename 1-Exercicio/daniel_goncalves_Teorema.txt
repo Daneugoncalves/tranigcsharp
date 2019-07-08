@@ -1,0 +1,17 @@
+Por que 5*5= 25 ?
+
+pois 5 * 'x' = 25
+
+e 25 / x = 5 
+
+se trocar o "x" por 5, temos
+
+25 / 5 = 5
+
+entao o valor de x é igual a 5 
+
+logo 
+
+5 * 5 = 25
+
+ 
